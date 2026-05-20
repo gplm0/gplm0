@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm GP</h1>
-<h3 align="center">Full-Stack Developer & AI Specialist building clean, production-ready systems.</h3>
+<h3 align="center">Full-stack developer building production-ready cloud applications and scalable architectures.</h3>
 
 - 🔭 **I’m currently working on:** Scaling real-world apps, secure database design, and automated API data pipelines.
 - 🌱 **I’m currently learning:** Multi-agent AI orchestration, cloud deployment tuning, and local LLM fine-tuning.
