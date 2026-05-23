@@ -11,7 +11,7 @@
 * 🎓 **Education:** Information Technology Scholar at Notre Dame of Kidapawan College (NDKC)
 * 🔭 **I’m currently working on:** Scaling real-world apps, secure database design, and automated API data pipelines.
 * 🤖 **AI & Research:** Architecting multi-agent AI orchestrations and fine-tuning local LLM workflows.
-* ⚡ **Fun fact:** I'm actually younger than most junior devs, but my code has already survived more production timeouts than their hobby projects.
+* ⚡ **Fun fact:** I spend 20% of my time coding and 80% naming variables.
 
 ---
 
