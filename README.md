@@ -15,6 +15,25 @@
 
 ---
 
+### 💼 Experience Pipeline
+
+#### 🌐 **Freelance Full-Stack Developer** | *2024 – Present*
+* Developing custom full-stack web applications tailored for local businesses to drive operational automation and digital transformation.
+* **Featured Project:** Engineered a comprehensive **E-Commerce Platform for Local Restaurants**, featuring real-time menu management, structured customer checkout pipelines, and a minimal, high-performance UI/UX design.
+* Managing end-to-end deployment workflows, database schemas, and state-management configurations to ensure optimal web application scalability.
+
+#### 🪵 **IT Staff** – *Tecuala Mini-Sawmill & Woodwork* | *June 2025 – July 2025*
+* Managed and maintained digital workstation infrastructure, ensuring high system uptime for administrative and operational processes.
+* Optimized local data storage backups and resolved hardware/software technical faults to prevent system downtime.
+* Guided digital tool adoption to streamline inventory monitoring and internal asset workflows.
+
+#### 🏥 **IT Staff** – *Kidapawan Doctors College, Inc. (Main Campus)* | *Jan 2025 – Feb 2025*
+* Supported campus-wide network infrastructure and provided rapid-response technical troubleshooting for faculty and student workstation environments.
+* Assisted in managing institutional database access parameters and maintaining workstation security protocols.
+* Conducted routine system diagnostics, hardware repairs, and software updates across multiple campus computer laboratories.
+
+---
+
 ### 🚀 Current Production Stack
 
 <p align="left">
