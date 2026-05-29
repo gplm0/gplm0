@@ -52,6 +52,8 @@
 
 <p align="left"> 
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="kali" />
+  <img src="https://img.shields.io/badge/Parrot_OS-00A86B?style=for-the-badge&logo=parrotos&logoColor=white" alt="parrot" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu" />
   <img src="https://img.shields.io/badge/Penetration_Testing-000000?style=for-the-badge&logo=linux&logoColor=red" alt="pentesting" />
   <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hack-the-box&logoColor=black" alt="hackthebox" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
