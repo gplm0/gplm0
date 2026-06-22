@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm GP</h1>
-  <h3>Full-stack developer building production-ready cloud applications and scalable architectures.</h3>
+  <h3>Freelance Developer | Software & Web App Engineer | DevOps Specialist | AI Analyst</h3>
 </div>
 
 ---
@@ -9,7 +9,7 @@
 
 * 📍 **Based in:** Kidapawan City, North Cotabato, Philippines 🇵🇭
 * 🎓 **Education:** Information Technology Scholar at Notre Dame of Kidapawan College (NDKC)
-* 🔭 **I’m currently working on:** Scaling real-world apps, secure database design, and automated API data pipelines.
+* 🔭 **I’m currently working on:** Scaling full-stack cloud applications, robust DevOps pipelines, and intelligent multi-agent AI systems.
 * 🤖 **AI & Research:** Architecting multi-agent AI orchestrations and fine-tuning local LLM workflows.
 * ⚡ **Fun fact:** I spend 20% of my time coding and 80% naming variables.
 
@@ -17,10 +17,10 @@
 
 ### 💼 Experience Pipeline
 
-#### 🌐 **Freelance Full-Stack Developer** | *2024 – Present*
-* Developing custom full-stack web applications tailored for local businesses to drive operational automation and digital transformation.
+#### 🌐 **Freelance Developer** | *2024 – Present*
+* Providing comprehensive technical solutions, including **full-stack web application development**, **DevOps infrastructure management**, and **AI-driven data analysis**.
 * **Featured Project:** Engineered a comprehensive **E-Commerce Platform for Local Restaurants**, featuring real-time menu management, structured customer checkout pipelines, and a minimal, high-performance UI/UX design.
-* Managing end-to-end deployment workflows, database schemas, and state-management configurations to ensure optimal web application scalability.
+* Managing end-to-end deployment workflows, database schemas, and state-management configurations to ensure optimal web application scalability and system reliability.
 
 ---
 
@@ -77,7 +77,7 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="maven" width="40" height="40"/> </a>
+  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="apache_maven" width="40" height="40"/> </a>
   <a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="gradle" width="40" height="40"/> </a>
 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
@@ -94,7 +94,7 @@
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity3d" width="40" height="40"/> </a> 
   <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> 
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
 </p>
