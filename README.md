@@ -14,9 +14,7 @@
 * ⚡ **Fun fact:** I spend 20% of my time coding and 80% naming variables.
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-green-seven.vercel.app?user=gplm0" alt="GitHub Streak" />
-  </a>
+  [![GitHub Streak](https://github-readme-streak-stats-green-seven.vercel.app?user=gplm0)](https://git.io/streak-stats)
 </p>
 
 ---
