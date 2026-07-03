@@ -14,7 +14,9 @@
 * ⚡ **Fun fact:** I spend 20% of my time coding and 80% naming variables.
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GP&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=GP&theme=radical&hide_border=true" alt="GP's GitHub Streak" />
+  </a>
 </p>
 
 ---
