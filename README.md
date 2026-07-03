@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-green-seven.vercel.app?user=GP&theme=soft-green" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-green-seven.vercel.app?user=GP" alt="GitHub Streak" />
   </a>
 </p>
 
