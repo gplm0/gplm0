@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm GP</h1>
-  <h3>Freelance Developer | Software & Web App Engineer | DevOps Specialist | AI Analyst</h3>
+  <h3>Freelance Developer | Software & Web App Engineer | DevOps Specialist | Data Analyst</h3>
 </div>
 
 ---
@@ -12,6 +12,10 @@
 * 🔭 **I’m currently working on:** Scaling full-stack cloud applications, robust DevOps pipelines, and intelligent multi-agent AI systems.
 * 🤖 **AI & Research:** Architecting multi-agent AI orchestrations and fine-tuning local LLM workflows.
 * ⚡ **Fun fact:** I spend 20% of my time coding and 80% naming variables.
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GP&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
