@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Hi 👋, I'm GP</h1>
-  <h3>Freelance Developer | Software & Web App Engineer | DevOps Specialist | Data Analyst</h3>
 </div>
 
 ---
