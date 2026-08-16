@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="https://i.pinimg.com/736x/eb/be/1e/ebbe1ed1308bb64ea179863c652be081.jpg" alt="Header Banner" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
   <h1>Hi 👋, I'm GP</h1>
 </div>
 
