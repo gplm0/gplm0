@@ -18,12 +18,6 @@
 * 🤖 **AI & Research:** Architecting multi-agent AI orchestrations and fine-tuning local LLM workflows.
 * ⚡ **Fun fact:** I spend 20% of my time coding and 80% naming variables.
 
-<p align="center">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=gplm0&theme=soft-green&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
 ---
 
 ### 💼 Experience Pipeline
