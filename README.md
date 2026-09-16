@@ -16,7 +16,7 @@
 * 🎓 **Education:** Information Technology Scholar at Notre Dame of Kidapawan College (NDKC)
 * 🔭 **I’m currently working on:** Scaling full-stack cloud applications, robust DevOps pipelines, and intelligent multi-agent AI systems.
 * 🤖 **AI & Research:** Architecting multi-agent AI orchestrations and fine-tuning local LLM workflows.
-* ⚡ **Fun fact:** I spend 20% of my time coding and 80% naming variables.
+* ⚡ **Fun fact:** I spend 20% of my time coding and 80% designing systems.
 
 ---
 
