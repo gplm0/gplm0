@@ -24,7 +24,7 @@
 
 #### 🌐 **Freelance Developer** | *2024 – Present*
 * Providing comprehensive technical solutions, including **full-stack web application development**, **DevOps infrastructure management**, and **AI-driven data analysis**.
-* **Featured Project:** Engineered a comprehensive **E-Commerce Platform for Local Restaurants**, featuring real-time menu management, structured customer checkout pipelines, and a minimal, high-performance UI/UX design.
+* Featured Project: Engineered a privacy-focused virtual assistant featuring local LLM execution via Ollama, low-latency speech processing pipelines, and automated administrative workflow integration.
 * Managing end-to-end deployment workflows, database schemas, and state-management configurations to ensure optimal web application scalability and system reliability.
 
 ---
