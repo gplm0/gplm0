@@ -3,10 +3,10 @@
   <p><strong>Full-Stack &amp; AI Systems Developer</strong> | IT Scholar @ NDKC</p>
   <p>Building scalable cloud web apps, multi-agent AI workflows, and reliable DevOps pipelines.</p>
   <p>
-    <a href="www.linkedin.com/in/gp-lumacad-2414bb307">
+    <a href="https://www.linkedin.com/in/gp-lumacad-2414bb307" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="codewithGP13@example.com">
+    <a href="mailto:codewithgp13@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
